@@ -14,10 +14,12 @@
 * [Python](https://www.python.org/)
 * [Airflow](https://airflow.apache.org/)
 * [PostgreSQL](https://www.postgresql.org/)
+* [Datalens](https://datalens.yandex.ru)
 
 
 ## __Визуализация в Yandex Datalens__:
 
+[Datalens](https://datalens.yandex/tcnpog0buopsi)
 
 
 ## Структура проекта:
