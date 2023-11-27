@@ -1,0 +1,5 @@
+# start airflow server on system start
+@reboot  /home/username/run_airflow_onstart.sh
+
+# start postgres database backup to s3 storage
+0 12 * * * /home/username/pg_backup.sh DB_NAME DB_USER DB_PASS
