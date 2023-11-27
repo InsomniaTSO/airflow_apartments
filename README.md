@@ -17,7 +17,7 @@
 * [Datalens](https://datalens.yandex.ru)
 
 
-## __Визуализация в Yandex Datalens__:
+## __Дашборд в Yandex Datalens__:
 
 * [Datalens](https://datalens.yandex/tcnpog0buopsi)
 
@@ -26,4 +26,4 @@
 
 - [Airflow Dags and Plugins](https://github.com/InsomniaTSO/airflow_apartments/tree/master/airflow/dags)
 - [SQL view and materialized view](https://github.com/InsomniaTSO/airflow_apartments/tree/master/sh)
-- [bash scripts](https://github.com/InsomniaTSO/airflow_apartments/tree/master/sh)
+- [Bash scripts](https://github.com/InsomniaTSO/airflow_apartments/tree/master/sh)
