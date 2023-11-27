@@ -27,3 +27,4 @@
 - [Airflow Dags and Plugins](https://github.com/InsomniaTSO/airflow_apartments/tree/master/airflow/dags)
 - [SQL view and materialized view](https://github.com/InsomniaTSO/airflow_apartments/tree/master/sh)
 - [Bash scripts](https://github.com/InsomniaTSO/airflow_apartments/tree/master/sh)
+- [Districts geodata](https://github.com/InsomniaTSO/airflow_apartments/tree/master/data)
