@@ -1,3 +1,5 @@
+/* Create materialized view of summary district table with 
+   geopolygon data of district borders*/
 CREATE MATERIALIZED VIEW mv_city_districts AS
 WITH 
 spb AS

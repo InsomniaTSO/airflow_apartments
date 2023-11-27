@@ -1,3 +1,5 @@
+/* Create summary view of infrastructure objects by type 
+   and apartments on current day*/
 CREATE OR REPLACE VIEW INFRA_VIEW AS
 SELECT ap.inx, d."name", d.population, d.area, d.density, d.metro, d.stops,
        ap."type", ap.subtype, ap.lat, ap.lon

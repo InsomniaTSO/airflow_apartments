@@ -1,3 +1,4 @@
+/* Create summary view of infrastructure objects count by districts*/
 CREATE OR REPLACE VIEW INFRA_COUNT_VIEW AS
 WITH 
 green_count AS (
